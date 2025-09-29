@@ -1,0 +1,7 @@
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\bin\Debug\ListaPOO-ex2.exe.config
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\bin\Debug\ListaPOO-ex2.exe
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\bin\Debug\ListaPOO-ex2.pdb
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\obj\Debug\ListaPOO-ex2.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\obj\Debug\ListaPOO-ex2.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\obj\Debug\ListaPOO-ex2.exe
+C:\Users\gilbe\source\repos\ListaPOO-ex2\ListaPOO-ex2\obj\Debug\ListaPOO-ex2.pdb
