@@ -1,0 +1,11 @@
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\bin\Debug\projLeds1.exe.config
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\bin\Debug\projLeds1.exe
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\bin\Debug\projLeds1.pdb
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.csproj.AssemblyReference.cache
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.Form1.resources
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.Properties.Resources.resources
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.csproj.GenerateResource.cache
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.csproj.CoreCompileInputs.cache
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.exe
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.pdb
+C:\Users\Nicollas\source\repos\projLeds1\projLeds1\obj\Debug\projLeds1.exe.config
